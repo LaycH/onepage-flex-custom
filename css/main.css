@@ -251,6 +251,15 @@ footer {
     /* Style adjustments for viewports that meet the condition */
 }
 
+@media (min-width:768px;) {
+    
+}
+
+@media (min-width:1200px;) {
+    
+
+}
+
 @media print,
        (-webkit-min-device-pixel-ratio: 1.25),
        (min-resolution: 1.25dppx),
